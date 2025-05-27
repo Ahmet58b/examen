@@ -1,0 +1,27 @@
+{
+    "remotePath": "./",
+    "host": "ftp.ahmet.stedelijklyceumexpo.be",
+    "username": "ahmet.stedelijklyceumexpo.be",
+    "password": "#6VzlT)84W)9pLHp3zAUn303&@^#&oKh21vxdG)B&R)EA8d7X^",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ".html, .css, .js, .php, .json"
+        ],
+        "path": "public_ftp"
+    }
+}
